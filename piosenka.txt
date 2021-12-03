@@ -13,7 +13,4 @@ refren_2.txt
 
 zwrotka_3.txt
 
-Whoa, I'm an alien, I'm a legal alien 
-I'm an Englishman in New York 
-Whoa, I'm an alien, I'm a legal alien 
-I'm an Englishman in New York
+refren_3.txt
