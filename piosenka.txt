@@ -3,10 +3,7 @@ Sting - "Englishman in New York"
 zwrotka_1
 
 
-Whoa, I'm an alien, I'm a legal alien 
-I'm an Englishman in New York 
-Whoa, I'm an alien, I'm a legal alien 
-I'm an Englishman in New York 
+refren_1.txt
 
 If "Manners maketh man", as someone said 
 Then he's the hero of the day 
