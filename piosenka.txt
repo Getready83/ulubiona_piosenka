@@ -5,10 +5,7 @@ zwrotka_1
 
 refren_1.txt
 
-If "Manners maketh man", as someone said 
-Then he's the hero of the day 
-It takes a man to suffer ignorance and smile 
-Be yourself no matter what they say 
+zwrotka_2.txt
 
 Whoa, I'm an alien, I'm a legal alien 
 I'm an Englishman in New York 
