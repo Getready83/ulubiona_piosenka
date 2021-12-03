@@ -7,10 +7,7 @@ refren_1.txt
 
 zwrotka_2.txt
 
-Whoa, I'm an alien, I'm a legal alien 
-I'm an Englishman in New York 
-Whoa, I'm an alien, I'm a legal alien 
-I'm an Englishman in New York 
+refren_2.txt
 
 Modesty, propriety can lead to notoriety 
 You could end up as the only one 
