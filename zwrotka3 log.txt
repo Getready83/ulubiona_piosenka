@@ -1,0 +1,23 @@
+commit be753e090ed6c020e791a216a06c9adc0c2a41cd
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:27:48 2021 +0100
+
+    wydzielenie trzeciej zwrotki z pliku piosenka.txt
+
+diff --git a/zwrotka_3.txt b/zwrotka_3.txt
+new file mode 100644
+index 0000000..b19ba1a
+--- /dev/null
++++ b/zwrotka_3.txt
+@@ -0,0 +1,10 @@
++Takes more than combat gear to make a man 
++Takes more than a licence for a gun 
++Confront your enemies, avoid them when you can 
++A gentleman will walk but never run 
++
++If "Manners maketh man", as someone said 
++Then he's the hero of the day 
++It takes a man to suffer ignorance and smile 
++
++Be yourself no matter what they say (x3) 
+\ No newline at end of file

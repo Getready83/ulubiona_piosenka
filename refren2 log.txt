@@ -1,0 +1,41 @@
+commit 6e6e49c39597272bacbedeeb69dd8e21688e0e10
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:25:09 2021 +0100
+
+    wydzielenie dodatkowych czterch wersów do pliku refren_2.txt z pliku piosenka.txt
+
+diff --git a/refren_2.txt b/refren_2.txt
+index b917fc1..412cf75 100644
+--- a/refren_2.txt
++++ b/refren_2.txt
+@@ -1,4 +1,9 @@
+ Whoa, I'm an alien, I'm a legal alien 
+ I'm an Englishman in New York 
+ Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
+\ No newline at end of file
++I'm an Englishman in New York 
++
++Modesty, propriety can lead to notoriety 
++You could end up as the only one 
++Gentleness, sobriety are rare in this society 
++At night a candle's brighter than the sun
+\ No newline at end of file
+
+commit 2c92e2b482e5fd677eca1c93b74d77c24f09deb6
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:19:54 2021 +0100
+
+    wydzielenie refrenu drugiego z pliku piosenka.txt
+
+diff --git a/refren_2.txt b/refren_2.txt
+new file mode 100644
+index 0000000..b917fc1
+--- /dev/null
++++ b/refren_2.txt
+@@ -0,0 +1,4 @@
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
+\ No newline at end of file

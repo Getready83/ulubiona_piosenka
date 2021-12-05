@@ -1,0 +1,17 @@
+commit 9844580ae2fdfd97514323b3302b8afbcbb07b0a
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:10:54 2021 +0100
+
+    wydzielenie zwrotki drugiej z pliku piosenka.txt
+
+diff --git a/zwrotka_2.txt b/zwrotka_2.txt
+new file mode 100644
+index 0000000..cf7fc56
+--- /dev/null
++++ b/zwrotka_2.txt
+@@ -0,0 +1,4 @@
++If "Manners maketh man", as someone said 
++Then he's the hero of the day 
++It takes a man to suffer ignorance and smile 
++Be yourself no matter what they say 
+\ No newline at end of file

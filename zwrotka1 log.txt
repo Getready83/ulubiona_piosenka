@@ -1,0 +1,31 @@
+commit d2e8d339d35092050bd8ae3e76a4e7879c982597
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:55:08 2021 +0100
+
+     wydzielenie pierwszej zwrotki z pliku piosenka.txt
+
+diff --git a/zwrotka_1.txt b/zwrotka_1.txt
+index e69de29..ced610a 100644
+--- a/zwrotka_1.txt
++++ b/zwrotka_1.txt
+@@ -0,0 +1,9 @@
++I don't drink coffee, I take tea, my dear 
++I like my toast done on one side 
++And you can hear it in my accent when I talk 
++I'm an Englishman in New York 
++
++See me walking down Fifth Avenue 
++A walking cane here at my side 
++I take it everywhere I walk 
++I'm an Englishman in New York 
+\ No newline at end of file
+
+commit 0d01ef8826d13e0235a0e48d484bbcbd33c09118
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:41:45 2021 +0100
+
+    wydzielenie 1 zwrotki z pliku piosenka.txt
+
+diff --git a/zwrotka_1.txt b/zwrotka_1.txt
+new file mode 100644
+index 0000000..e69de29

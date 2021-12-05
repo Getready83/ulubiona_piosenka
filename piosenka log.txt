@@ -1,0 +1,244 @@
+commit 4c3e7885629c16c94ce6a8733a2329fbcae7988d
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 23:32:42 2021 +0100
+
+    zastąpienie powtarzających się refrenów jedną nazwą refren_1.txt oraz skasowanie pliku refren_3.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 451c6b2..827f554 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -13,4 +13,4 @@ refren_2.txt
+ 
+ zwrotka_3.txt
+ 
+-refren_3.txt
++refren_1.txt
+
+commit 048cb59dd62f8d54ed12d1c1eaf0043824c7f9ae
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:30:37 2021 +0100
+
+    wydzielenie trzeciego refrenu z pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index c5c1453..451c6b2 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -13,7 +13,4 @@ refren_2.txt
+ 
+ zwrotka_3.txt
+ 
+-Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
+-Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York
++refren_3.txt
+
+commit be753e090ed6c020e791a216a06c9adc0c2a41cd
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:27:48 2021 +0100
+
+    wydzielenie trzeciej zwrotki z pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index ad88478..c5c1453 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -11,16 +11,7 @@ refren_2.txt
+ 
+  
+ 
+-Takes more than combat gear to make a man 
+-Takes more than a licence for a gun 
+-Confront your enemies, avoid them when you can 
+-A gentleman will walk but never run 
+-
+-If "Manners maketh man", as someone said 
+-Then he's the hero of the day 
+-It takes a man to suffer ignorance and smile 
+-
+-Be yourself no matter what they say (x3) 
++zwrotka_3.txt
+ 
+ Whoa, I'm an alien, I'm a legal alien 
+ I'm an Englishman in New York 
+
+commit 6e6e49c39597272bacbedeeb69dd8e21688e0e10
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:25:09 2021 +0100
+
+    wydzielenie dodatkowych czterch wersów do pliku refren_2.txt z pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index f966604..ad88478 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -9,10 +9,7 @@ zwrotka_2.txt
+ 
+ refren_2.txt
+ 
+-Modesty, propriety can lead to notoriety 
+-You could end up as the only one 
+-Gentleness, sobriety are rare in this society 
+-At night a candle's brighter than the sun 
++ 
+ 
+ Takes more than combat gear to make a man 
+ Takes more than a licence for a gun 
+
+commit 2c92e2b482e5fd677eca1c93b74d77c24f09deb6
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:19:54 2021 +0100
+
+    wydzielenie refrenu drugiego z pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index e896339..f966604 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -7,10 +7,7 @@ refren_1.txt
+ 
+ zwrotka_2.txt
+ 
+-Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
+-Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
++refren_2.txt
+ 
+ Modesty, propriety can lead to notoriety 
+ You could end up as the only one 
+
+commit 9844580ae2fdfd97514323b3302b8afbcbb07b0a
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:10:54 2021 +0100
+
+    wydzielenie zwrotki drugiej z pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index bda632f..e896339 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -5,10 +5,7 @@ zwrotka_1
+ 
+ refren_1.txt
+ 
+-If "Manners maketh man", as someone said 
+-Then he's the hero of the day 
+-It takes a man to suffer ignorance and smile 
+-Be yourself no matter what they say 
++zwrotka_2.txt
+ 
+ Whoa, I'm an alien, I'm a legal alien 
+ I'm an Englishman in New York 
+
+commit 54fecdfec0839e3ffbedc8e9c2ff3bc233bd6a9e
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:07:12 2021 +0100
+
+    Wydzielenie refrenu do nowego pliku
+
+diff --git a/piosenka.txt b/piosenka.txt
+index f32c212..bda632f 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -3,10 +3,7 @@ Sting - "Englishman in New York"
+ zwrotka_1
+ 
+ 
+-Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
+-Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
++refren_1.txt
+ 
+ If "Manners maketh man", as someone said 
+ Then he's the hero of the day 
+
+commit d2e8d339d35092050bd8ae3e76a4e7879c982597
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:55:08 2021 +0100
+
+     wydzielenie pierwszej zwrotki z pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 302fa89..f32c212 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,14 +1,7 @@
+ Sting - "Englishman in New York"
+ 
+-I don't drink coffee, I take tea, my dear 
+-I like my toast done on one side 
+-And you can hear it in my accent when I talk 
+-I'm an Englishman in New York 
++zwrotka_1
+ 
+-See me walking down Fifth Avenue 
+-A walking cane here at my side 
+-I take it everywhere I walk 
+-I'm an Englishman in New York 
+ 
+ Whoa, I'm an alien, I'm a legal alien 
+ I'm an Englishman in New York 
+
+commit cc0fe63a653c8f32187b7cee750a2f5c88ee80dc
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:38:04 2021 +0100
+
+    dodanie pliku z tekstem piosenki
+
+diff --git a/piosenka.txt b/piosenka.txt
+new file mode 100644
+index 0000000..302fa89
+--- /dev/null
++++ b/piosenka.txt
+@@ -0,0 +1,47 @@
++Sting - "Englishman in New York"
++
++I don't drink coffee, I take tea, my dear 
++I like my toast done on one side 
++And you can hear it in my accent when I talk 
++I'm an Englishman in New York 
++
++See me walking down Fifth Avenue 
++A walking cane here at my side 
++I take it everywhere I walk 
++I'm an Englishman in New York 
++
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++
++If "Manners maketh man", as someone said 
++Then he's the hero of the day 
++It takes a man to suffer ignorance and smile 
++Be yourself no matter what they say 
++
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++
++Modesty, propriety can lead to notoriety 
++You could end up as the only one 
++Gentleness, sobriety are rare in this society 
++At night a candle's brighter than the sun 
++
++Takes more than combat gear to make a man 
++Takes more than a licence for a gun 
++Confront your enemies, avoid them when you can 
++A gentleman will walk but never run 
++
++If "Manners maketh man", as someone said 
++Then he's the hero of the day 
++It takes a man to suffer ignorance and smile 
++
++Be yourself no matter what they say (x3) 
++
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York

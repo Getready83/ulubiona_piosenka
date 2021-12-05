@@ -1,0 +1,79 @@
+commit 4c3e7885629c16c94ce6a8733a2329fbcae7988d
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 23:32:42 2021 +0100
+
+    zastąpienie powtarzających się refrenów jedną nazwą refren_1.txt oraz skasowanie pliku refren_3.txt
+
+commit 39bca2d8c09b05858ff7c29178a4da5a7df76d42
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 23:17:23 2021 +0100
+
+    Revert "usunięcie z refrenu jednej lini"
+    
+    This reverts commit 787234306384968164c431fc3028e3412ddc87e5.
+
+commit 787234306384968164c431fc3028e3412ddc87e5
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 23:16:36 2021 +0100
+
+    usunięcie z refrenu jednej lini
+
+commit 048cb59dd62f8d54ed12d1c1eaf0043824c7f9ae
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:30:37 2021 +0100
+
+    wydzielenie trzeciego refrenu z pliku piosenka.txt
+
+commit be753e090ed6c020e791a216a06c9adc0c2a41cd
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:27:48 2021 +0100
+
+    wydzielenie trzeciej zwrotki z pliku piosenka.txt
+
+commit 6e6e49c39597272bacbedeeb69dd8e21688e0e10
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:25:09 2021 +0100
+
+    wydzielenie dodatkowych czterch wersów do pliku refren_2.txt z pliku piosenka.txt
+
+commit 2c92e2b482e5fd677eca1c93b74d77c24f09deb6
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:19:54 2021 +0100
+
+    wydzielenie refrenu drugiego z pliku piosenka.txt
+
+commit 9844580ae2fdfd97514323b3302b8afbcbb07b0a
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:10:54 2021 +0100
+
+    wydzielenie zwrotki drugiej z pliku piosenka.txt
+
+commit 54fecdfec0839e3ffbedc8e9c2ff3bc233bd6a9e
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:07:12 2021 +0100
+
+    Wydzielenie refrenu do nowego pliku
+
+commit c63d0bbdc271a470c4f3f0808f614bd63091fa9b
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:05:07 2021 +0100
+
+    Wydzielenie refrenu z pliku piosenka.txt
+
+commit d2e8d339d35092050bd8ae3e76a4e7879c982597
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:55:08 2021 +0100
+
+     wydzielenie pierwszej zwrotki z pliku piosenka.txt
+
+commit 0d01ef8826d13e0235a0e48d484bbcbd33c09118
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:41:45 2021 +0100
+
+    wydzielenie 1 zwrotki z pliku piosenka.txt
+
+commit cc0fe63a653c8f32187b7cee750a2f5c88ee80dc
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 21:38:04 2021 +0100
+
+    dodanie pliku z tekstem piosenki

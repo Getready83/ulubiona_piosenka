@@ -1,0 +1,55 @@
+commit 39bca2d8c09b05858ff7c29178a4da5a7df76d42
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 23:17:23 2021 +0100
+
+    Revert "usunięcie z refrenu jednej lini"
+    
+    This reverts commit 787234306384968164c431fc3028e3412ddc87e5.
+
+diff --git a/refren_1.txt b/refren_1.txt
+index 049ac71..b917fc1 100644
+--- a/refren_1.txt
++++ b/refren_1.txt
+@@ -1,4 +1,4 @@
+ Whoa, I'm an alien, I'm a legal alien 
+-
++I'm an Englishman in New York 
+ Whoa, I'm an alien, I'm a legal alien 
+ I'm an Englishman in New York 
+\ No newline at end of file
+
+commit 787234306384968164c431fc3028e3412ddc87e5
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 23:16:36 2021 +0100
+
+    usunięcie z refrenu jednej lini
+
+diff --git a/refren_1.txt b/refren_1.txt
+index b917fc1..049ac71 100644
+--- a/refren_1.txt
++++ b/refren_1.txt
+@@ -1,4 +1,4 @@
+ Whoa, I'm an alien, I'm a legal alien 
+-I'm an Englishman in New York 
++
+ Whoa, I'm an alien, I'm a legal alien 
+ I'm an Englishman in New York 
+\ No newline at end of file
+
+commit c63d0bbdc271a470c4f3f0808f614bd63091fa9b
+Author: Pawel Getler <p.getler@o2.pl>
+Date:   Fri Dec 3 22:05:07 2021 +0100
+
+    Wydzielenie refrenu z pliku piosenka.txt
+
+diff --git a/refren_1.txt b/refren_1.txt
+new file mode 100644
+index 0000000..b917fc1
+--- /dev/null
++++ b/refren_1.txt
+@@ -0,0 +1,4 @@
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
++Whoa, I'm an alien, I'm a legal alien 
++I'm an Englishman in New York 
+\ No newline at end of file
