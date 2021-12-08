@@ -17,23 +17,12 @@ refren_1.txt
 
 Closer to the edge
 
-part one.txt
+part_one.txt
 
 chorus.txt
 
-part two.txt
+part_two.txt
 
 chorus2.txt
 
-Everyone's just going crazy in these days. 
-It's like the end of the world. 
-
-If you make a promise to yourself, 
-you have to keep it no matter what. 
-
-Some people believe in god, I believe in music. 
-You know, some people pray, I turn up the radio. 
-
-Music makes the world go round, and for me, 
-if it wasn't around right now, I wouldn't be around right now. 
-Music is everything to me. That's all I can say.
+part_three.txt
