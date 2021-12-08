@@ -26,5 +26,3 @@ part_two.txt
 chorus2.txt
 
 part_three.txt
-
-to już jest koniec.
