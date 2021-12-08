@@ -1,0 +1,500 @@
+   44  git config --global user.name "Pawel Getler"
+   45  git config --global user.email "p.getler@o2.pl"
+   46  cd c:cd/users/pawel/projekty
+   47  cdc:/
+   48  cd\:
+   49  cd:cd c:cd c:\users
+   50  cd c:\users
+   51  c:\users\pawel
+   52  c:\users\pawelcd /users/Pawel/
+   53  status
+   54  cat
+   55  ls
+   56  pwd
+   57  ls-a
+   58  git ls-a
+   59  ls - a
+   60  ls -la
+   61  cd projekty
+   62  ls
+   63  cd python 9
+   64  cd "pyyhon 9"
+   65  cd Python_9
+   66  cd git
+   67  cat piosenka.txt
+   68  cat > piosenka.txt
+   69  ls
+   70  ls -l ppiosenka.txt
+   71  ls -l piosenka.txt
+   72  cat piosenka.txt
+   73  rm piosenka.txt
+   74  ls
+   75  cat > piosenka.txt 
+   76  rm piosenka.txt
+   77  ls
+   78  ls piosenka.txt
+   79  cat piosenka,txt
+   80  cat piosenka.txt
+   81  pwr
+   82  pwd
+   83  cd projekty
+   84  cd Python_9
+   85  ls
+   86  cd git
+   87  ls
+   88  ..
+   89  .
+   90  cd
+   91  cd projekty/Python_9/git
+   92  ls
+   93  cat piosenka.txt
+   94  64;1;2;4;6;9;15;21;22;28;29c
+   95  cat piosenka111
+   96  cat piosenka111.odt
+   97  cd projekty/Python_9/git
+   98  ls
+   99  cat > piosenka
+  100  cd projekty/Python_9/git
+  101  git init
+  102  git status
+  103  git add
+  104  git add piosenk.txt
+  105  git add piosenka.txt
+  106  git status
+  107  ls - la
+  108  ls
+  109  ls-la
+  110  ls -la
+  111  ls -a
+  112  ls -la
+  113  git status
+  114  git commit -m "wprowadzono tekst piosenki"
+  115  git log
+  116  git log-p
+  117  git log - p
+  118  git log -p
+  119  cd projekty/Python_9/git
+  120  ls
+  121  ls
+  122  git status
+  123  git log
+  124  git status
+  125  git add wstep.txt
+  126  git commit -m "przeniesienie wstępu do odzielnego do pliku wstep.txt"
+  127  git status
+  128  git status
+  129  git add zwrotka_1.txt
+  130  git commit -m "wydzielenie zwrotki 1 do oddzielnego pliku zwrotka_1.txt"
+  131  git status
+  132  git add refren_1.txt
+  133  git commit -m"Wydzielenie refrenu do pliku refren_1.txt"
+  134  git status
+  135  git help
+  136  git status
+  137  git add wstawka_1.txt zwrotaka_2.txt
+  138  git add zwrotka.txt
+  139  git add zwrotka_2.txt
+  140  git commit -m "wydzielenie wstawki do pliku wstawka_1.txt oraz wydzielenia zwrotki drugiej do pliku zwrotak_2.txt
+  141  git commit -m "wydzielenie wstawki do pliku wstawka_1.txt oraz wydzielenia zwrotki drugiej do pliku zwrotak_2.txt"
+  142  git status
+  143  git log -p
+  144  cd projekty/Python_9/git
+  145  git log
+  146  git status
+  147  git add wstawka_1.txt
+  148  git commit -m "dodanie wstawki 1 do repozytorium uzupełnineie commitu  85859e3d414ad03bf981fbe8d78abf6e0a524c96"
+  149  git add refren_2.txt
+  150  commit -m "wydzielenie drugiego refrenu do pliku refren_2.txt"
+  151  git statsu
+  152  git status
+  153  git commit -m "doadanie drugirgo refrenu do pliku refren_2.txt"
+  154  git status
+  155  git log
+  156  git status
+  157  git add refren_3.txt
+  158  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt
+  159  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt"
+  160  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt
+  161  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt"
+  162  git status
+  163  git status
+  164  git restore
+  165  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt
+  166  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt"
+  167  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt
+  168  git commit -m "dodanie refrenu NO NO NO NO git add refren_3.txt do pliku refren_3.txt"
+  169  git status
+  170  git status
+  171  git add refren_3.txt refren_2bis.txt
+  172  commit -m " dodanie refrenu do pliku refren_3.txt i zmiana poprzedniej nazyw refren_3.txt na refren_2bis.txt" 
+  173  git commit -m " dodanie refrenu do pliku refren_3.txt i zmiana poprzedniej nazyw refren_3.txt na refren_2bis.txt" 
+  174  ls
+  175  git revert  a5e22fd7bfdd0ff1e9b58d8
+  176  cd projekty/Paython_9/git
+  177  cd projekty/Python_9/git
+  178  ls
+  179  ls -refren_2bis.txt
+  180  git log
+  181  ls
+  182  ls-a
+  183  ls -a
+  184  ls -la
+  185  cd projektyt
+  186  cd projekty
+  187  ls
+  188  cd Python_9
+  189  ls
+  190  cd git
+  191  ls
+  192  git status
+  193  git commit -m " dodanie zwrotki 3 "
+  194  git add zwrotka_3.txt
+  195  git commit -m " dodanie zwrotki 3"
+  196  git status
+  197  git log
+  198  git log -p
+  199  ls
+  200  ls >out.txt
+  201  cd projekty/python_9/git
+  202  ls
+  203  log -p
+  204  git log -p
+  205  git log
+  206  git log -p
+  207  cd projekty
+  208  cd python_9
+  209  cd git
+  210  ls
+  211  git add pisenka.txt
+  212  git add piosenka.txt
+  213  git commit - m " dodanie pliku piosenka.txt"
+  214  git status
+  215  git rm refren_2.txt
+  216  git status
+  217  git rm refren_2bis.txt refren_3.txt wstawka_1.txt wstep.txt zwrotka_1.txt zwrotka_2.txt
+  218  git status
+  219  git rm zwrotka_3.txt
+  220  git status
+  221  git add piosenka.txt
+  222  git statusq
+  223  git status
+  224  git piosenka.txt
+  225  git add piosenka.txt
+  226  git commit -m "dodanie piosenka.txt
+  227  q
+  228  git commit -m"dodanie piosenka.txt"
+  229  ls
+  230  git status
+  231  git add
+  232  git status
+  233  git add
+  234  git add zwrotka_1.txt
+  235  git commit -m"dodanie zwrotki nr 1"
+  236  git status 
+  237  git log
+  238  git status
+  239  git add zwrotka_1.txt
+  240  gir status
+  241  git status
+  242  git commit -m"dodanie zwrotki nr 1"
+  243  ls
+  244  git status
+  245  git add refren_2.txt zwrotka_2.txt
+  246  git commit -m"dodanie zwrotki i refrenu nr 2"
+  247  git status
+  248  git commit refren_1.txt "dodanie refren 1"
+  249  git status
+  250  git rm refren_1.txt
+  251  git status
+  252  cd python_9
+  253  git init
+  254  ls
+  255  ls
+  256  cat > zwrotka.txt
+  257  ls
+  258  git status
+  259  commit -m "dodanie zmiany w pliku piosenka i dodanie pliku zwrotka"
+  260  git add piosenka.txt zwrotka_1.txt
+  261  git status
+  262  ls
+  263  pwd
+  264  ls
+  265  cd python_9
+  266  ls
+  267  ls -a
+  268  git init
+  269  ls
+  270  ls -a
+  271  ls -la
+  272  ls
+  273  ls
+  274  git status
+  275  git add piosenka.txt
+  276  git status
+  277  git rm piosenka.txt
+  278  git status
+  279  git log
+  280  git commit -m"dodanie pliku z tekstem piosenki"
+  281  git status
+  282  git log
+  283  git status
+  284  git add zwrotka_1.txt
+  285  git status
+  286  git commit -m"wydzielenie 1 zwrotki z pliku piosenka.txt"
+  287  git log
+  288  git status
+  289  git add piosenka.txt zwrotka_1.txt
+  290  git status
+  291  git commit -m" wydzielenie pierwszej zwrotki z pliku piosenka.txt"
+  292  git status
+  293  git log
+  294  git log -p piosenka.txt
+  295  git log -p zwrotka_1.txt
+  296  git add refren_1.txt
+  297  git commit -m"Wydzielenie refrenu z pliku piosenka.txt"
+  298  git status
+  299  git add piosenka.txt
+  300  git status
+  301  git commit -m"Wydzielenie refrenu do nowego pliku"
+  302  git log -p piosenka.txt
+  303  git log
+  304  git add piosenka.txt zwrotka_2.txt
+  305  git status
+  306  git commit -m"wydzielenie zwrotki drugiej z pliku piosenka.txt"
+  307  git status
+  308  git commit -a"wydzielenie drugiego refrenu z pliku piosenka.txt"
+  309  git commit -a" wydzielenie drugiego refrenu z pliku piosenka.txt"
+  310  git commit -a " wydzielenie drugiego refrenu z pliku piosenka.txt"
+  311  git status
+  312  git add .
+  313  git status
+  314  git commit -m "wydzielenie refrenu drugiego z pliku piosenka.txt"
+  315  git add .
+  316  git commit -m "wydzielenie dodatkowych czterch wersów do pliku refren_2.txt z pliku piosenka.txt "
+  317  git status
+  318  git log
+  319  git add .
+  320  git commit -m"wydzielenie trzeciej zwrotki z pliku piosenka.txt"
+  321  git log
+  322  git add.
+  323  git add .
+  324  git commit -m"wydzielenie trzeciego refrenu z pliku piosenka.txt"
+  325  git status
+  326  git status
+  327  ls
+  328  cd
+  329  ls
+  330  cd projekty
+  331  ls
+  332  cd Python_9
+  333  ls
+  334  git mv piosenka111.odt > piosenka.txt
+  335  cd git
+  336  git status
+  337  git add piosenka.txt
+  338  git commit -m " dodanie pliku piosenka"
+  339  git status
+  340  git rm .
+  341  git rm refren_1.txt
+  342  git status
+  343  git log
+  344  git status
+  345  git rm refren_2.txt zwrotka_1.txt zwrotka_2.txt
+  346  git status
+  347  git mv piosenka.txt > linkin_park.txt
+  348  git mv piosenka.txt linkin_park.txt
+  349  git mv source=piosenka.txt destination=linkin_park.txt
+  350  mv piosenka.txt linkin_park.txt
+  351  git status
+  352  git add .
+  353  git status
+  354  git log
+  355  git ststus
+  356  git status
+  357  git add piosenka.txt
+  358  git add piosenka1.txt
+  359  git commit -m "dodanie pisenka1.txt"
+  360  git status
+  361  git log
+  362  git ststus
+  363  git status
+  364  git add.
+  365  git add . 
+  366  git commit -m
+  367  git commit -m "wycięcie refrenu"
+  368  git log
+  369  git revert cbad608d54871e85
+  370  cd projekty
+  371  cd Python_9
+  372  cd git
+  373  ls
+  374  git log
+  375  git status
+  376  git add .
+  377  git commit -m "zmodyfikowana piosenka"
+  378  git log
+  379  git revert 
+  380  git revert 436f5e516ede609f52a
+  381  git status
+  382  git checkout piosenka.txt
+  383  git checkout piosenka1.txt
+  384  cd
+  385  cd python_9
+  386  git status
+  387  git status
+  388  git add .
+  389  git commit -m "usunięcie z refrenu jednej lini "
+  390  git log
+  391  git revert 7872343063849681
+  392  git status
+  393  git rm refren_3.txt
+  394  git status
+  395  git add . 
+  396  git commit -m "zastąpienie powtarzających się refrenów jedną nazwą refren_1.txt oraz skasowanie pliku refren_3.txt " 
+  397  git log -p piosenka.txt
+  398  git -p piosenka.txt
+  399  git log -p piosenka.txt
+  400  git log -p piosenka.txt > out.txt
+  401  git log -p zwrotka_1.txt > out1.txt
+  402  git checkout out.txt
+  403  git checkout
+  404  git status
+  405  git log -p zwrotka_2.txt > zwrotka_2.txt
+  406  git checkout zwrotka_2.txt
+  407  git log -p zwrotka_2.txt > out2.txt
+  408  git log -p zwrotka_3.txt > out3.txt
+  409  git log -p refren_1.txt > outrefren_1.txt
+  410  git log -p refren_2.txt > outrefren_2.txt
+  411  git log
+  412  git log > historia.txt
+  413   git
+  414  git remote add origin https://github.com/Getready83/jak-nauczyc-sie-git.git
+  415  https://github.com/Getready83/jak-nauczyc-sie-git.git
+  416  git remote add origin https://github.com/Getready83/jak-nauczyc-sie-git.git
+  417  ls
+  418  cd projekty
+  419  ls
+  420  cd jak-nauczyć-sie-git
+  421  cd jak-nauczyc-sie-git
+  422  git status
+  423  git log
+  424  git status
+  425  git add .
+  426  git commit -m "pierwsze push"
+  427  git status
+  428  git remote add origin https://github.com/Getready83/jak-nauczyc-sie-git.git
+  429  git push origin master
+  430  git push
+  431  git push origin
+  432  git push origin logowanie
+  433  git status
+  434  ls
+  435  cd
+  436  ls
+  437  cd projekty
+  438  ls
+  439  cd piosenka txt 
+  440  cd piosenka.txt 
+  441  cd piosenka
+  442  ls
+  443  git status
+  444  cd
+  445  git python_9
+  446  cd python_9
+  447  ls
+  448  git status
+  449  git add .
+  450  git commit -m "zmiana nazw poszczególnych plików w windowsie teksty bez zmian " 
+  451  git status
+  452  git push origin master
+  453  git remote add origin https://github.com/Getready83/ulubiona_piosenka.git
+  454  cd status
+  455  git status
+  456  git push origin master
+  457  cd status
+  458  git status
+  459  cd 
+  460  cd projekty
+  461  cd python_9
+  462  ls
+  463  ..
+  464  cd
+  465  cd projekty
+  466  ls
+  467  jak-nauczyć-sie git
+  468  cd jak-nauczyc-sie-git
+  469  ls
+  470  git status
+  471  git add 1.txt
+  472  git commit -m"zmiana pliku 1.txt"
+  473  git push origin logowanie
+  474  git status
+  475  git add .
+  476  git commit -m"lista zakupów w 2.txt" 
+  477  git push origin logowanie
+  478  git status
+  479  touch
+  480  touch -help
+  481  touch --help
+  482  ls
+  483  cd Projekty/
+  484  ls
+  485  cd Python_9/jak-nauczyc-sie-git
+  486  cd Python_9/jak-nauczyc-sie-git
+  487  ls
+  488  cd jak-nauczyc-sie-git/
+  489  ls
+  490  mkdir prework
+  491  ls
+  492  cd prework
+  493  ls
+  494  ls -a
+  495  pwd
+  496  cd
+  497  cd ..
+  498  ls
+  499  cd paweł
+  500  ls -la
+  501  ls
+  502  cd Projekty/
+  503  ls
+  504  cd jak-nauczyc-sie-git/
+  505  ls
+  506  ld
+  507  ls
+  508  ls
+  509  cd prework
+  510  ls
+  511  ls -a
+  512  git init
+  513  mkd piosenka.txt
+  514  mkdir piosenka.txt
+  515  ls
+  516  rm piosenka.txt
+  517  mkdir reset piosenka.txt
+  518  rm -R piosenka.txt
+  519  ls
+  520  rm -R reset
+  521  ls
+  522  piosenka.txt
+  523  add piosenka.txt
+  524  help
+  525  touch piosenka.txt
+  526  ls
+  527  cd .
+  528  cd ll
+  529  cd ..
+  530  ls
+  531  cd prework2
+  532  git clone   https://github.com/Getready83/ulubiona_piosenka.git
+  533  git clone gh repo clone Getready83/ulubiona_piosenka
+  534  git clone https://github.com/Getready83/ulubiona_piosenka.git
+  535  ls
+  536  cd ulubiona_piosenka/
+  537  ls
+  538  git log
+  539  history piosenka.txt
+  540  history
+  541  history > history piosenka.txt
+  542  history >history piosenka.txt
+  543  history >history_piosenka.txt
